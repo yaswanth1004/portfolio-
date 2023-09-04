@@ -6,7 +6,6 @@ import js from "../assets/javascript.png";
 import reactimg from "../assets/react.png";
 import tailwind from "../assets/tailwind.png";
 import php from "../assets/php.jpeg";
-import sql from "../assets/sql.png";
 import cpp from "../assets/cpp.png";
 
 const Experience = () => {
