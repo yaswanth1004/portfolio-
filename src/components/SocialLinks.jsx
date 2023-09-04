@@ -27,7 +27,7 @@ const SocialLinks = () => {
             href: 'https://github.com/Mohith705',
         },
         {
-            id: 1,
+            id: 3,
             child: (
                 <>
                     Mail <HiOutlineMail size={30} />
@@ -36,7 +36,7 @@ const SocialLinks = () => {
             href: 'mailto:bayymohith32@gmail.com',
         },
         {
-            id: 1,
+            id: 4,
             child: (
                 <>
                     Resume <BsFillPersonLinesFill size={30} />
