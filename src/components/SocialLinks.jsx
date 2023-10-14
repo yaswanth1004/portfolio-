@@ -14,7 +14,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedin size={30} />
                 </>
             ),
-            href: 'https://www.linkedin.com/in/mohith-bayya-ba7784206/',
+            href: 'https://www.linkedin.com/in/boddepalli-yaswanth-580492252/',
             style: 'rounded-tr-md'
         },
         {
@@ -24,7 +24,7 @@ const SocialLinks = () => {
                     GitHub <FaGithub size={30} />
                 </>
             ),
-            href: 'https://github.com/Mohith705',
+            href: 'https://github.com/yaswanth1004',
         },
         {
             id: 3,
@@ -33,7 +33,7 @@ const SocialLinks = () => {
                     Mail <HiOutlineMail size={30} />
                 </>
             ),
-            href: 'mailto:bayymohith32@gmail.com',
+            href: 'yaswanthboddepalli1406@gmail.com',
         },
         {
             id: 4,
@@ -42,7 +42,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: 'https://drive.google.com/file/d/1xZUQ_DdoiABdHD_t7SgwFGqro3xa4CER/view?usp=drivesdk',
+            href: 'https://drive.google.com/file/d/1xUAXR2ANcLxieHLwr3ptcS0udAxe-4U4/view?usp=drive_link',
             style: 'rounded-br-md',
             download: true,
         },
