@@ -12,7 +12,7 @@ const Home = () => {
                         I'm a Front End Developer
                     </h2>
                     <p className='text-gray-500 py-4 max-w-md'>
-                        I am currently pursuing my 3rd year at Vellore Institute Of Technology, Amravati. I am passionate about problem solving and coding. Currently, I love to work on front end web applications using technologies like HTML, CSS, JS, ReactJS, TailwindCSS.
+                        I am currently pursuing my 4th year at Vellore Institute Of Technology, Amravati. I am passionate about problem solving and coding. Currently, I love to work on front end web applications using technologies like HTML, CSS, JS, ReactJS, TailwindCSS.
                     </p>
 
                     

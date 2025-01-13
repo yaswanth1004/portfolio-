@@ -5,6 +5,7 @@ import html from "../assets/html.png";
 import js from "../assets/javascript.png";
 import reactimg from "../assets/react.png";
 import tailwind from "../assets/tailwind.png";
+import java from "../assets/java.jpeg";
 import php from "../assets/php.jpeg";
 import cpp from "../assets/cpp.png";
 
@@ -55,6 +56,11 @@ const Experience = () => {
         {
             id: 9,
             src: cpp,
+            style: 'shadow-blue-900'
+        },
+        {
+            id: 10,
+            src: java,
             style: 'shadow-blue-900'
         }
     ]

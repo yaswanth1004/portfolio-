@@ -11,7 +11,7 @@ const About = () => {
                     Hello, I am B.Yaswanth pursuing my BTech in VIT-AP in the stream of Computer Science and Engineering. I am passionate about coding and problem solving and found my interest in web development. I have prior knowledge on front end web technologies like HTML, CSS, JS,  PHP, MYSQL, ReactJS, Next.js and learning MERN stack.
                 </p>
                 <br />
-                <p>While coming to my academics, I have an aggregate CGPA of 9.21 for my whole 2years of engineering.</p>
+                <p>While coming to my academics, I have an aggregate CGPA of 9.15 for my whole 3years of engineering.</p>
                 
             </div>
         </div>
